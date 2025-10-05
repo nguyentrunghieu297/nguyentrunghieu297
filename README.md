@@ -11,7 +11,7 @@
 ```js
 const nguyenTrungHieu = {
   role: "Frontend Developer",
-  tools: ["React", "React Native", "TailwindCSS", "Figma"],
+  tools: ["React", "React Native", "Javascript", "Typescript"],
   learning: "Exploring Next.js & Mobile App Development",
   passion: "Crafting smooth user experiences & aesthetic interfaces",
   motto: "Design with empathy 💡 | Code with clarity ✨"
